@@ -1,0 +1,44 @@
+h2{
+    left: 50%;
+    top: -250px;
+    transform: translate(-50%);
+}
+.text-center .space{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #252525;
+    text-align: center;
+    letter-spacing: 10px;
+}
+/* form  */
+.newsletter{
+    background-color: #2f2f2f;
+}
+.margin{
+    margin-top: 50px;
+    margin-left: 150px;
+    background: #f2f2f2;
+    padding: 8px 35px;
+}
+.grey{
+    color: #5f5f5f;
+}
+.newsP{
+    font-size: 22px;
+    font-weight: 400;
+    color: #5f5f5f;
+}
+.color{
+    height: 50px ; 
+    color: #fff;
+    border-color: #ca0d1f !important;
+    background-color: #d60e21 !important;
+}
+.color:hover{
+    border-color: #d60e21 !important;
+    background-color: #e20f22 !important;
+}
+.color:focus, .focus:focus{
+    box-shadow: 0 0 0 0.2rem rgba(243,71,87,.5) !important;
+    outline: 0;
+}
