@@ -23,11 +23,11 @@ I used the basic web technologies for this project
  - Bootstrap
  - Font Awesome
 
-### License
+##	License
 
 Distributed under the MIT License. See  `LICENSE`  for more information.
 
-### Author
+## Author
 
 Ahmar Tariq -  [@ahmartariq10](https://twitter.com/ahmartariq10)
 
